@@ -1,3 +1,0 @@
-vidpehm_8K_Albedo.uasset filter=lfs diff=lfs merge=lfs -text
-vidpehm_8K_Normal.uasset filter=lfs diff=lfs merge=lfs -text
-ThirdPersonExampleMap_BuiltData.uasset filter=lfs diff=lfs merge=lfs -text
